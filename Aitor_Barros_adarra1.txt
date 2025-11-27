@@ -1,2 +1,5 @@
 1. fitxategia
-fitxategiaren aldaketa main adarrean
+fitxategiaren aldaketa main eta nire adarrean
+
+
+
